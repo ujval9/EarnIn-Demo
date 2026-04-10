@@ -96,7 +96,7 @@ private struct DisclosureSheetView: View {
                 VStack(alignment: .leading, spacing: 12) {
                     Text("Disclosures")
                         .font(.title3).bold()
-                    Text("Here you can include your disclosures content. This sheet can be dismissed by tapping the close button or dragging down.")
+                    Text("This is a disclosure that this a Bug but now its fixed by Ujval")
                         .font(.body)
                         .foregroundStyle(.secondary)
                 }
